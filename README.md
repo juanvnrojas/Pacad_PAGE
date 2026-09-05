@@ -1,2 +1,5 @@
-# Pacad_PAGE
-Protótipo para o trabalho de Empreendedorismo. Utilização de GitHub Pages para visualização, projeto original em :  https://github.com/jvpazn/pacad
+# 📚 Pacad - Sistema Acadêmico de Presença
+
+Protótipo de sistema acadêmico para controle de presença, desenvolvido como projeto para a disciplina de Empreendedorismo.
+
+💻 **Repositório Original:** [github.com/jvpazn/pacad](https://github.com/jvpazn/pacad)
